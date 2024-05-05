@@ -1,7 +1,6 @@
 import React, { Fragment } from "react";
 
 import Header from "./components/Header";
-import View from "./components/View";
 import About from "./components/About";
 import WhyUs from "./components/WhyUs";
 import Contact from "./components/Contact";
